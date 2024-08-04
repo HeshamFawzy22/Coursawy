@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\quize_item.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\quize_item.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_popular_courses.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_popular_courses.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\course_item.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\course_item.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item1.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\item1.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\color_spinner_layout.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\color_spinner_layout.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_exams_2.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_exams_2.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_public__exams_.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_public__exams_.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tests.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_tests.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_continue_signup.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_continue_signup.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\notification_item.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_quiz__exam.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_quiz__exam.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_quisez_2.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_quisez_2.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_info.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_doctor_info.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_exam.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_exam.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_course_profile.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_course_profile.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item2.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\item2.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popular_trainers_item.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\popular_trainers_item.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popular_course_item.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\popular_course_item.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\exam_alert.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\exam_alert.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_course.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\item_course.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tests_list.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_tests_list.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_public__quizes_.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_public__quizes_.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_materials_2.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_materials_2.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_notifications.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_test.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\list_item_test.xml"
+    },
+    {
+        "merged": "D:\\HF\\Flutter Projects\\coursawy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_online_exams.xml",
+        "source": "D:\\HF\\Flutter Projects\\coursawy\\app\\src\\main\\res\\layout\\fragment_online_exams.xml"
+    }
+]

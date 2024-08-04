@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163014466361",
+    "project_id": "coursawy-a3545",
+    "storage_bucket": "coursawy-a3545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163014466361:android:f7ff007cd7926622f426e8",
+        "android_client_info": {
+          "package_name": "com.example.coursawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163014466361-16u2tt68j1g6ppg1p6tv1fqv8u10kr20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWf2FmmhO5NqwYR-8JS3lyzHxM_NZChNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163014466361-16u2tt68j1g6ppg1p6tv1fqv8u10kr20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
